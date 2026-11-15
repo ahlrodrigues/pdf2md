@@ -1,0 +1,1 @@
+- Criar automaticamente backps diferentes, para eu poder escolher restaurar momentos do jogo.
